@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Pablo Laya - Backend Developer" width="100%" style="margin-top:-8px;margin-bottom:-8px;">
-</p>
+<div align="center" style="margin:0;padding:0;line-height:0;background:#0a0a0a;">
+  <img src="assets/banner.png" alt="Pablo Laya - Backend Developer" width="100%" style="display:block;margin:0;padding:0;border:0;">
+</div>
+
 
 
 <h1 align="center">👋 ¡Hola, soy Pablo Laya!</h1>
