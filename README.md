@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mí
 
-Soy estudiante del doble grado de **DAM + DAW** en Madrid 🇪🇸 y estoy enfocado en dominar el desarrollo **backend con Python** y la **automatización de procesos**.
+Soy estudiante del doble grado de **DAM + DAW** y del Master en Desarrollo con IA (Big School) en Madrid 🇪🇸 y estoy enfocado en dominar el desarrollo **backend con Python** y la **automatización de procesos**.
 
 Actualmente profundizo en:
 
