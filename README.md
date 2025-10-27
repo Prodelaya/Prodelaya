@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Pablo Laya - Backend Developer" width="100%">
+</p>
 
 
 <h1 align="center">👋 ¡Hola, soy Pablo Laya!</h1>
