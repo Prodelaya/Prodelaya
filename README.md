@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pablo Laya - Backend Developer" width="100%">
+  <img src="assets/banner.png" alt="Pablo Laya - Backend Developer" width="100%" style="margin-top:-8px;margin-bottom:-8px;">
 </p>
 
 
