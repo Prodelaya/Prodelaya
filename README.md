@@ -105,7 +105,7 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
 ---
 
 ### Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prodelaya&layout=compact)
 
 ---
 
