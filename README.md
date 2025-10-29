@@ -107,8 +107,6 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
 ### Lenguajes más usados
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodelaya&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Prodelaya&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prodelaya&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
