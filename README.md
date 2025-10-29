@@ -8,7 +8,7 @@
 
 <p align="center" style="color:#A8A8B3;">
   <b>Desarrollador Backend en formación · Python · FastAPI · Automatización</b><br>
-  <i>Construyo sistemas backend eficientes, bots de Telegram y plataformas educativas con React + APIs modernas.</i>
+  <i>Construyo sistemas backend eficientes, bots de Telegram y diferentes soluciones con APIs modernas.</i>
 </p>
 
 ---
