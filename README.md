@@ -117,7 +117,7 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodelaya&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html,css,Jupyter%20Notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodelaya&layout=donut&theme=github_dark&hide_border=true&langs_count=10&
     alt="Top lenguajes de Prodelaya" 
     width="98%" />
 </p>
