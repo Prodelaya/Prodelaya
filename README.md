@@ -1,12 +1,12 @@
-<div align="center" style="margin:0;padding:0;line-height:0;background:#0a0a0a;">
+<div align="center" style="margin:0;padding:0;line-height:0;background:#241B2F;">
   <img src="assets/banner.png" alt="Pablo Laya - Backend Developer" width="100%" style="display:block;margin:0;padding:0;border:0;">
 </div>
 
 
 
-<h1 align="center">👋 ¡Hola, soy Pablo Laya!</h1>
+<h1 align="center" style="color:#F5F3FF;">👋 ¡Hola, soy Pablo Laya!</h1>
 
-<p align="center">
+<p align="center" style="color:#A8A8B3;">
   <b>Desarrollador Backend en formación · Python · FastAPI · Automatización</b><br>
   <i>Construyo sistemas backend eficientes, bots de Telegram y plataformas educativas con React + APIs modernas.</i>
 </p>
@@ -88,9 +88,9 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://prodelaya.dev" target="_blank"><img src="https://img.shields.io/badge/Web-Prodelaya.dev-2b3137?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:prodelaya@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pablolaya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pablo%20Laya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://prodelaya.dev" target="_blank"><img src="https://img.shields.io/badge/Web-Prodelaya.dev-FF3EA5?style=for-the-badge&logo=googlechrome&logoColor=F5F3FF&labelColor=241B2F" /></a>
+  <a href="mailto:prodelaya@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-ad1d38?style=for-the-badge&logo=gmail&logoColor=F5F3FF&labelColor=241B2F" /></a>
+  <a href="https://www.linkedin.com/in/pablolaya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pablo%20Laya-FF3EA5?style=for-the-badge&logo=linkedin&logoColor=F5F3FF&labelColor=241B2F" /></a>
 </p>
 
 ---
@@ -100,14 +100,14 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
 <p align="center">
   <!-- Stats principal: habilita iconos y datos “extra” -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Prodelaya&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Prodelaya&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&bg_color=45,241B2F,7d6e8f&title_color=F5F3FF&text_color=A8A8B3&icon_color=FF3B3B&ring_color=FF3EA5&hide_border=true"
     alt="GitHub Stats de Prodelaya" 
     width="48%" />
 </p>
   <!-- Streak: proyecto distinto -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Prodelaya&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Prodelaya&background=45,241B2F,7d6e8f&ring=FF3EA5&fire=FF3B3B&currStreakNum=F5F3FF&sideNums=A8A8B3&currStreakLabel=A8A8B3&sideLabels=A8A8B3&dates=A8A8B3&hide_border=true"
     alt="Racha de contribuciones de Prodelaya" 
     width="48%" />
 </p>
@@ -118,11 +118,11 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
 
 <p align="center">
    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodelaya&layout=donut&theme=github_dark&hide_border=true&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodelaya&layout=donut&bg_color=45,241B2F,7d6e8f&title_color=F5F3FF&text_color=A8A8B3&hide_border=true&langs_count=10"
     alt="Top lenguajes de Prodelaya" 
     width="48%" />
 </p>
 
 ---
 
-<p align="center"><i>“La automatización no reemplaza al desarrollador; lo libera.”</i></p>
+<p align="center" style="color:#A8A8B3;"><i>“La automatización no reemplaza al desarrollador; lo libera.”</i></p>
