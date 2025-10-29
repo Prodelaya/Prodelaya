@@ -1,5 +1,5 @@
 <div align="center" style="margin:0;padding:0;line-height:0;background:#241B2F;">
-  <img src="assets/banner.png" alt="Pablo Laya - Backend Developer" width="100%" style="display:block;margin:0;padding:0;border:0;">
+  <img src="assets/banner-new.png" alt="Pablo Laya - Backend Developer" width="100%" style="display:block;margin:0;padding:0;border:0;">
 </div>
 
 
