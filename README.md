@@ -100,7 +100,7 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
 <p align="center">
   <!-- Stats principal: habilita iconos y datos “extra” -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Prodelaya&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&background=241B2F&title_color=F5F3FF&text_color=A8A8B3&icon_color=FF3B3B&ring_color=FF3EA5&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Prodelaya&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&bf_color=241B2F&title_color=F5F3FF&text_color=A8A8B3&icon_color=FF3B3B&ring_color=FF3EA5&hide_border=true"
     alt="GitHub Stats de Prodelaya" 
     width="48%" />
 </p>
