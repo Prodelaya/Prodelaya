@@ -103,8 +103,9 @@ Soy partidario del principio **KISS** (*Keep It Simple, Stupid*) y de diseñar p
     src="https://github-readme-stats.vercel.app/api?username=Prodelaya&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats de Prodelaya" 
     width="48%" />
-
+</p>
   <!-- Streak: proyecto distinto -->
+<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Prodelaya&theme=github-dark-blue&hide_border=true"
     alt="Racha de contribuciones de Prodelaya" 
